@@ -23,5 +23,5 @@
         "question": "What is the main purpose of using version control systems like Git?",
         "answer": "Tracking changes in code and collaborating with others",
         "options": ["Running code", "Tracking changes in code and collaborating with others", "Writing documentation", "Debugging code"]
-    }
+    },
 ]
