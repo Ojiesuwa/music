@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the process of finding errors and fixing them within a program called?",
+    "answer": "Debugging",
+    "options": ["Error resolution", "Code correction", "Debugging", "Troubleshooting"]
+  },
+  {
+    "question": "Which data structure operates on a Last-In-First-Out (LIFO) basis?",
+    "answer": "Stack",
+    "options": ["Queue", "Heap", "Array", "Stack"]
+  },
+  {
+    "question": "In object-oriented programming, what term is used to describe a blueprint for creating objects?",
+    "answer": "Class",
+    "options": ["Object", "Attribute", "Method", "Class"]
+  },
+  {
+    "question": "What type of loop is specifically designed to execute a block of code a fixed number of times?",
+    "answer": "For loop",
+    "options": ["While loop", "Do-while loop", "For loop", "Infinite loop"]
+  },
+  {
+    "question": "Which programming language is primarily used for developing web-based applications and websites?",
+    "answer": "JavaScript",
+    "options": ["Python", "Java", "C++", "JavaScript"]
+  }
+]
