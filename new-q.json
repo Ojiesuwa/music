@@ -1,42 +1,43 @@
-[
-  {
-    "question": "What does CSS stand for?",
-    "answer": "Cascading Style Sheets",
-    "options": [
+[{
+    question: "What does CSS stand for?",
+    answer: "Cascading Style Sheets",
+    options: [
       "Style Sheets Cascading",
       "Sheets Cascading Style",
       "Cascading Style Sheets",
-      "Cascading Sheets Style"
-    ]
+      "Cascading Sheets Style",
+    ],
   },
   {
-    "question": "Which keyword is used to define a variable in JavaScript?",
-    "answer": "var",
-    "options": ["let", "const", "variable", "var"]
+    question: "Which keyword is used to define a variable in JavaScript?",
+    answer: "var",
+    options: ["let", "const", "variable", "var"],
   },
   {
-    "question": "What does HTML stand for?",
-    "answer": "Hypertext Markup Language",
-    "options": [
+    question: "What does HTML stand for?",
+    answer: "Hypertext Markup Language",
+    options: [
       "Hypertext Markup Language",
       "Hyperlink and Text Markup Language",
       "High Tech Markup Language",
-      "Hyper Text Makeup Language"
-    ]
+      "Hyper Text Makeup Language",
+    ],
   },
   {
-    "question": "What symbol is used to denote a single-line comment in most programming languages?",
-    "answer": "//",
-    "options": ["#", "//", "--", "/"]
+    question:
+      "What symbol is used to denote a single-line comment in most programming languages?",
+    answer: "//",
+    options: ["#", "//", "--", "/"],
   },
   {
-    "question": "What is the main purpose of using version control systems like Git?",
-    "answer": "Tracking changes in code and collaborating with others",
-    "options": [
+    question:
+      "What is the main purpose of using version control systems like Git?",
+    answer: "Tracking changes in code and collaborating with others",
+    options: [
       "Running code",
       "Tracking changes in code and collaborating with others",
       "Writing documentation",
-      "Debugging code"
-    ]
+      "Debugging code",
+    ],
   }
 ]
